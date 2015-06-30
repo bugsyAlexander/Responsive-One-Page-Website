@@ -2,9 +2,9 @@
 
 =============
 
-[View site](http://bugsyalexander.github.io/Responsive-One-Page-Website/)
+[View website](http://bugsyalexander.github.io/Responsive-One-Page-Website/)
 
-(https://www.dropbox.com/s/gjr97uhf5svbg3h/Responsive%20One%20Page%20%7C%20Photography%20Portfolio.png?dl=0)
+(https://dl.dropboxusercontent.com/u/84590669/Responsive%20One%20Page%20%7C%20Photography%20Portfolio.png)
 
 Includes:
 - [Skeleton: Responsive CSS Boilerplate](http://getskeleton.com/)
