@@ -2,7 +2,7 @@
 
 =============
 
-[View website](http://bugsyalexander.github.io/Responsive-One-Page-Website/)
+[Click link to view live version of website](http://bugsyalexander.github.io/Responsive-One-Page-Website/)
 
 ![Image](https://dl.dropboxusercontent.com/u/84590669/Responsive%20One%20Page%20%7C%20Photography%20Portfolio.png?raw=true)
 
